@@ -1,3 +1,5 @@
+//Name:calculadora.c
+//Author: pepesamurai
 #include <stdio.h>
 int main(){
 int n1,n2,total;//Pega os 

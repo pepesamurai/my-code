@@ -1,3 +1,5 @@
+//Name:idade.c
+//Author: pepesamurai
 #include <stdio.h>
 int main(){
 unsigned int idade,ano;
